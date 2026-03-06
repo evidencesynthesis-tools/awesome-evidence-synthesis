@@ -11,7 +11,7 @@
 
 ## Evidence Synthesis Tools
 
-A curated directory of **140 strictly open-source tools (up to 2026)** covering the complete evidence synthesis workflow.
+A curated directory of **277 strictly open-source tools (up to 2026)** covering the complete evidence synthesis workflow.
 
 ### Scope
 
