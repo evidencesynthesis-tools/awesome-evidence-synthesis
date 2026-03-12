@@ -44,7 +44,7 @@ Submit tools via GitHub Issues, Discussions, Mail or Pull Requests.
 
 ### Citation
 
-Sahu, V. (2026). *Evidence Synthesis Tools* (v1.0). Zenodo.
+Sahu, V. (2026). *Evidence Synthesis Tools* (v2.1). Zenodo.
 [https://doi.org/10.5281/zenodo.18681868](https://doi.org/10.5281/zenodo.18681868)
 
 ### License
