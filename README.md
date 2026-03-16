@@ -1,14 +1,13 @@
-![Preview](assets/banner1.png)
-
-
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 # Awesome Evidence Synthesis Tools
 
 > A curated list of open-source tools for systematic reviews, meta-analysis, and evidence synthesis.
 
 This list is derived from the comprehensive mapping study and directory of open-source software for evidence synthesis.
+
+
+![Preview](assets/banner1.png)
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 - 🌐 **Web Directory:** [evidencesynthesis-tools.github.io](https://evidencesynthesis-tools.github.io)
 - 📦 **Source Repo:** [evidencesynthesis-tools/evidencesynthesis-tools.github.io](https://github.com/evidencesynthesis-tools/evidencesynthesis-tools.github.io)
