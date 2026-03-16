@@ -8,6 +8,11 @@ This list is derived from the comprehensive mapping study and directory of open-
 ![Preview](assets/banner1.png)
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![License](https://img.shields.io/badge/license-CC--BY--4.0-lightgrey)
+[![Open Source Only](https://img.shields.io/badge/Open%20Source-100%25-brightgreen)]()
+[![Maintenance](https://img.shields.io/badge/Maintained-Active-success)]()
+[![Open Science](https://img.shields.io/badge/Open%20Science-Compliant-green)]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10.5281/zenodo.18681868.svg)](https://doi.org/10.5281/zenodo.18681868)
 
 - 🌐 **Web Directory:** [evidencesynthesis-tools.github.io](https://evidencesynthesis-tools.github.io)
 - 📦 **Source Repo:** [evidencesynthesis-tools/evidencesynthesis-tools.github.io](https://github.com/evidencesynthesis-tools/evidencesynthesis-tools.github.io)
