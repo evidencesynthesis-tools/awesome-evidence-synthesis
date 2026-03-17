@@ -18,6 +18,27 @@ This list is derived from the comprehensive mapping study and directory of open-
 - 📦 **Source Repo:** [evidencesynthesis-tools/evidencesynthesis-tools.github.io](https://github.com/evidencesynthesis-tools/evidencesynthesis-tools.github.io)
 - 📄 **Research Paper:** [Mapping The Open-Source Landscape (Preprint)](https://osf.io/preprints/metaarxiv/7uskw_v1)
 
+
+## Inclusion Criteria
+
+- **Open Source License:** Must use a recognized open-source license (e.g., MIT, GPL, Apache).
+- **Public Code Repository:** Source code must be publicly accessible (e.g., GitHub, GitLab, Bitbucket).
+- **Non-Proprietary:** Must be free to use with no closed-source components or mandatory commercial dependencies.
+- **Reusable & Extensible:** Must include sufficient documentation for reuse, extension, and community development.
+- **Research-Focused:** Must be relevant to evidence synthesis, systematic reviews, meta-analysis, or related workflows.
+
+## External API Dependency Policy
+
+Open-source tools that interact with external APIs or platforms are eligible if:
+
+- The software uses an OSI-approved open-source license.
+- The full source code is publicly available.
+- Core functionality is transparent and reusable.
+- External services are used only for data access or integration, not for hidden proprietary logic.
+
+Such tools will also be clearly documented in the directory & awesome list.
+
+
 ## Contents
 
 - [Literature Search](#literature-search)
