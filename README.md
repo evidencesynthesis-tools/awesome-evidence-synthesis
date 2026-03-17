@@ -1,4 +1,7 @@
+
 # Awesome Evidence Synthesis Tools
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of open-source tools for systematic reviews, meta-analysis, and evidence synthesis.
 
@@ -7,7 +10,6 @@ This list is derived from the comprehensive mapping study and directory of open-
 
 ![Preview](assets/banner1.png)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-lightgrey)
 [![Open Source Only](https://img.shields.io/badge/Open%20Source-100%25-brightgreen)]()
 [![Maintenance](https://img.shields.io/badge/Maintained-Active-success)]()
@@ -17,6 +19,21 @@ This list is derived from the comprehensive mapping study and directory of open-
 - 🌐 **Web Directory:** [evidencesynthesis-tools.github.io](https://evidencesynthesis-tools.github.io)
 - 📦 **Source Repo:** [evidencesynthesis-tools/evidencesynthesis-tools.github.io](https://github.com/evidencesynthesis-tools/evidencesynthesis-tools.github.io)
 - 📄 **Research Paper:** [Mapping The Open-Source Landscape (Preprint)](https://osf.io/preprints/metaarxiv/7uskw_v1)
+
+
+## Contents
+
+- [Literature Search](#literature-search)
+- [Text Mining & NLP](#text-mining--nlp)
+- [Screening](#screening)
+- [Data Extraction & Cleaning](#data-extraction--cleaning)
+- [Risk of Bias Assessment](#risk-of-bias-assessment)
+- [Reference Management](#reference-management)
+- [Workflow & Automation](#workflow--automation)
+- [Visualization & Reporting](#visualization--reporting)
+- [Meta-analysis](#meta-analysis)
+- [Statistics](#statistics)
+- [Source Project](#source-project)
 
 
 ## Inclusion Criteria
@@ -38,19 +55,6 @@ Open-source tools that interact with external APIs or platforms are eligible if:
 
 Such tools will also be clearly documented in the directory & awesome list.
 
-
-## Contents
-
-- [Literature Search](#literature-search)
-- [Text Mining & NLP](#text-mining--nlp)
-- [Screening](#screening)
-- [Data Extraction & Cleaning](#data-extraction--cleaning)
-- [Risk of Bias Assessment](#risk-of-bias-assessment)
-- [Reference Management](#reference-management)
-- [Workflow & Automation](#workflow--automation)
-- [Visualization & Reporting](#visualization--reporting)
-- [Meta-analysis](#meta-analysis)
-- [Statistics](#statistics)
 
 ## Literature Search
 
@@ -107,7 +111,7 @@ Such tools will also be clearly documented in the directory & awesome list.
 - [DenseReviewer](https://densereviewer.ielab.io) - A Python-based tool designed to accelerate the screening phase by using Dense Retrieval models to rank relevant studies and incorporating active learning.
 - [Trial2rev](https://pubmed.ncbi.nlm.nih.gov/31984340/) - A system combining machine learning and crowd-sourcing to create a shared space for updating systematic reviews.
 - [RefRandomiser](https://refrandomiser.streamlit.app) - A Python-based data splitting tool developed to support double-screening processes in evidence synthesis by randomizing references.
-- [rayyanR](https://github.com/befriendabacterium/rayyanR) - An R package designed to process screening decisions exported from the Rayyan systematic review platform, structuring them for analysis and PRISMA flow diagrams.
+- [rayyanR](https://github.com/befriendabacterium/rayyanR) - An R package designed to process screening decisions exported from the Rayyan systematic review platform, structuring them for analysis and Prisma flow diagrams.
 
 ## Data Extraction & Cleaning
 
@@ -181,7 +185,7 @@ Such tools will also be clearly documented in the directory & awesome list.
 - [metaverse](https://rmetaverse.github.io) - A meta-project that integrates and expands the number and utility of R functions for systematic review and meta-analysis.
 - [EPPI Reviewer](https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=2914) - A web-based software for managing all stages of the systematic review process, including searching, screening, and data extraction.
 - [SyRF](https://syrf.org.uk/) - The CAMARADES Systematic Review Facility (SyRF) is an open-source platform designed specifically for preclinical systematic reviews.
-- [PRISMA 2020 (Flow Diagram)](https://www.eshackathon.org/software/PRISMA2020.html) - The official PRISMA 2020 Flow Diagram Generator (Shiny App & R package) automatically creates a correctly formatted PRISMA flow diagram.
+- [Prisma 2020 (Flow Diagram)](https://www.eshackathon.org/software/PRISMA2020.html) - The official Prisma 2020 Flow Diagram Generator (Shiny App & R package) automatically creates a correctly formatted Prisma flow diagram.
 - [ROSES flowchart](https://estech.shinyapps.io/roses_flowchart/) - An R package and Shiny app for creating flow diagrams compliant with the ROSES (Reporting Standards for Systematic Evidence Syntheses) guidelines.
 - [PROMPTHEUS](https://github.com/joaopftorres/PROMPTHEUS) - A human-centered pipeline designed to streamline Systematic Literature Reviews using Large Language Models, operating locally to support researchers.
 - [LLAssist](https://arxiv.org/abs/2407.13993) - Provides simple tools for automating literature reviews by leveraging Large Language Models and Natural Language Processing to extract information and evaluate relevance.
@@ -223,7 +227,7 @@ Such tools will also be clearly documented in the directory & awesome list.
 - [R: meta](https://cran.r-project.org/web/packages/meta/) - A user-friendly R package for standard meta-analysis in clinical research, supporting binary, continuous, and diagnostic test accuracy data.
 - [R: netmeta](https://cran.r-project.org/web/packages/netmeta/) - An R package for frequentist network meta-analysis using a graph-theoretical approach to estimate treatment effects.
 - [OpenMEE](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12708) - An open-source, cross-platform software for meta-analysis in ecology and evolution, utilizing a graphical interface backed by 'metafor'.
-- [OpenMeta[Analyst]](https://www.jstatsoft.org/article/view/v049i05) - A user-friendly, open-source software for performing meta-analysis and meta-regression using a graphical interface.
+- [OpenMetaAnalyst](https://www.jstatsoft.org/article/view/v049i05) - A user-friendly, open-source software for performing meta-analysis and meta-regression using a graphical interface.
 - [JASP](https://jasp-stats.org/) - Free and open-source software for statistical analysis, featuring a graphical interface with a dedicated module for conducting meta-analysis.
 - [OpenEpi](https://www.openepi.com/) - A web-based, open-source set of epidemiologic calculators for statistics in descriptive and analytic studies, useful for data extraction and statistical verification.
 - [PyMC](https://www.pymc.io/) - A Python library for Bayesian statistical modeling and probabilistic machine learning focusing on Markov chain Monte Carlo (MCMC) algorithms.
@@ -331,12 +335,8 @@ Such tools will also be clearly documented in the directory & awesome list.
 
 - [statcheck](https://cran.r-project.org/web/packages/statcheck/index.html) - An R package that extracts statistical results from text and checks whether reported p-values are consistent with test statistics and degrees of freedom.
 - [ArviZ](https://python.arviz.org/) - A Python library for exploratory analysis of Bayesian models, providing backend-agnostic plotting and diagnostics for Bayesian meta-analyses.
-- [Jamovi](https://www.jamovi.org/) - A free, open-source statistical spreadsheet designed to be easy to use, including modules for meta-analysis.
-- [MA-cont](https://katerina-pap.shinyapps.io/MA-cont-prepostES/) - An interactive tool for the meta-analysis of continuous outcomes using pre/post effect size approaches.
 - [metacp](https://link.springer.com/article/10.1186/s12859-025-06126-z) - A versatile software package that implements statistical methods for the combination of both independent p-values and dependent p-values.
-- [MSE FINDR](https://apsjournals.apsnet.org/doi/10.1094/PDIS-11-23-2519-SR) - A Shiny R application to estimate Mean Square Error using treatment means and post hoc test results.
 - [meta-maive](https://cran.r-project.org/package=MAIVE) - Meta-analysis instrumental variable estimator, addressing spurious precision in meta-analysis of observational research.
-- [metansue](https://cran.r-project.org/package=metansue) - Meta-analysis of studies with non-statistically significant unreported effects using multiple imputation.
 - [artma](https://cran.r-project.org/package=artma) - Automatic replication tools for meta-analysis, facilitating the reproduction of meta-analytic findings.
 - [dmetatools](https://cran.r-project.org/package=dmetatools) - Computational tools for meta-analysis of diagnostic test accuracy studies, handling non-standard metrics.
 - [wildmeta](https://cran.r-project.org/package=wildmeta) - Cluster wild bootstrapping for meta-analysis, providing hypothesis testing methods for dependent effect sizes.
@@ -345,22 +345,13 @@ Such tools will also be clearly documented in the directory & awesome list.
 - [NMADTA](https://cran.r-project.org/package=NMADTA) - Network meta-analysis of multiple diagnostic test accuracy studies (1-5 tests) with missing data.
 - [coefa](https://cran.r-project.org/package=coefa) - Meta analysis of factor analysis based on co-occurrence matrices.
 - [appraise](https://cran.r-project.org/package=appraise) - Bias-aware evidence synthesis in systematic reviews, implementing a bias-aware framework.
-- [getmstatistic](https://magosil86.github.io/getmstatistic/) - SPRE statistics for exploring heterogeneity in meta-analysis, quantifying systematic heterogeneity patterns.
-- [metasens](https://cran.r-project.org/package=metasens) - Statistical methods for sensitivity analysis in meta-analysis, evaluating how sensitive results are to publication bias.
 
 ## Source Project
 
 This awesome list is derived from the Evidence Synthesis Tools Directory.
 
-If you want the complete dataset of tools, visit:
-https://evidencesynthesis-tools.github.io
+If you want the complete dataset of tools, visit the website link provided in the header.
 
 ## Contributing
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to suggest additions or changes.
-
-## License
-
-This project is licensed under the CC BY 4.0 License - see the [LICENSE.md](LICENSE.md) file for details.
-
-
