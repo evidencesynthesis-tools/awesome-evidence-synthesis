@@ -1,7 +1,5 @@
 
-# Awesome Evidence Synthesis Tools
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Evidence Synthesis Tools [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of open-source tools for systematic reviews, meta-analysis, and evidence synthesis.
 
@@ -11,9 +9,9 @@ This list is derived from the comprehensive mapping study and directory of open-
 ![Preview](assets/banner1.png)
 
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-lightgrey)
-[![Open Source Only](https://img.shields.io/badge/Open%20Source-100%25-brightgreen)]()
-[![Maintenance](https://img.shields.io/badge/Maintained-Active-success)]()
-[![Open Science](https://img.shields.io/badge/Open%20Science-Compliant-green)]()
+![Open Source Only](https://img.shields.io/badge/Open%20Source-100%25-brightgreen)
+![Maintenance](https://img.shields.io/badge/Maintained-Active-success)
+![Open Science](https://img.shields.io/badge/Open%20Science-Compliant-green)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10.5281/zenodo.18681868.svg)](https://doi.org/10.5281/zenodo.18681868)
 
 - 🌐 **Web Directory:** [evidencesynthesis-tools.github.io](https://evidencesynthesis-tools.github.io)
@@ -23,6 +21,8 @@ This list is derived from the comprehensive mapping study and directory of open-
 
 ## Contents
 
+- [Inclusion Criteria](#inclusion-criteria)
+- [External API Dependency Policy](#external-api-dependency-policy)
 - [Literature Search](#literature-search)
 - [Text Mining & NLP](#text-mining--nlp)
 - [Screening](#screening)
@@ -38,20 +38,20 @@ This list is derived from the comprehensive mapping study and directory of open-
 
 ## Inclusion Criteria
 
-- **Open Source License:** Must use a recognized open-source license (e.g., MIT, GPL, Apache).
-- **Public Code Repository:** Source code must be publicly accessible (e.g., GitHub, GitLab, Bitbucket).
-- **Non-Proprietary:** Must be free to use with no closed-source components or mandatory commercial dependencies.
-- **Reusable & Extensible:** Must include sufficient documentation for reuse, extension, and community development.
-- **Research-Focused:** Must be relevant to evidence synthesis, systematic reviews, meta-analysis, or related workflows.
+**Open Source License:** Must use a recognized open-source license (e.g., MIT, GPL, Apache).
+**Public Code Repository:** Source code must be publicly accessible (e.g., GitHub, GitLab, Bitbucket).
+**Non-Proprietary:** Must be free to use with no closed-source components or mandatory commercial dependencies.
+**Reusable & Extensible:** Must include sufficient documentation for reuse, extension, and community development.
+**Research-Focused:** Must be relevant to evidence synthesis, systematic reviews, meta-analysis, or related workflows.
 
 ## External API Dependency Policy
 
 Open-source tools that interact with external APIs or platforms are eligible if:
 
-- The software uses an OSI-approved open-source license.
-- The full source code is publicly available.
-- Core functionality is transparent and reusable.
-- External services are used only for data access or integration, not for hidden proprietary logic.
+**Licensing:** The software uses an OSI-approved open-source license.
+**Availability:** The full source code is publicly available.
+**Transparency:** Core functionality is transparent and reusable.
+**Usage:** External services are used only for data access or integration, not for hidden proprietary logic.
 
 Such tools will also be clearly documented in the directory & awesome list.
 
@@ -174,7 +174,7 @@ Such tools will also be clearly documented in the directory & awesome list.
 ## Workflow & Automation
 
 - [Pandoc](https://pandoc.org/) - A universal document converter that turns files from one markup format into another (e.g., Word to Markdown), useful for document preparation.
-- [PDFtk (PDF Toolkit)](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit) - A tool for performing everyday tasks on PDF files, such as splitting, merging, and rotating pages, without editing the content.
+- [PDFtk (PDF Toolkit)](https://www.pdflabs.com/tools/pdfltk-the-pdf-toolkit) - A tool for performing everyday tasks on PDF files, such as splitting, merging, and rotating pages, without editing the content.
 - [PyPDF2](https://github.com/py-pdf/pypdf2) - A pure-Python library built as a PDF toolkit, capable of extracting document information, splitting, merging, and cropping pages.
 - [OSF (Open Science Framework)](https://osf.io/) - An open-source project management tool supporting the full research lifecycle, from preregistration to data sharing and collaboration.
 - [R: R Markdown](https://rmarkdown.rstudio.com/) - A framework for creating dynamic documents that turn analysis code into fully reproducible reports for transparent documentation.
@@ -260,7 +260,7 @@ Such tools will also be clearly documented in the directory & awesome list.
 - [compute.es](https://cran.r-project.org/web/packages/compute.es/) - R package for computing effect sizes (d, g, r, log odds ratio) and their variances from various test statistics.
 - [R: clubSandwich](https://cran.r-project.org/web/packages/clubSandwich/) - An R package providing cluster-robust variance estimators for models involving dependent effect sizes, such as multilevel or network meta-analysis.
 - [PSPP](https://www.gnu.org/software/pspp/) - A free, open-source replacement for the proprietary program SPSS, offering a similar interface and statistical capabilities.
-- [Gretl](https://gretl.sourceforge.net/) - GNU Regression, Econometrics and Time-series Library is an open-source package for econometric analysis useful for complex statistical modeling.
+- [Gretl](https://gretl.sourceforge.io/) - GNU Regression, Econometrics and Time-series Library is an open-source package for econometric analysis useful for complex statistical modeling.
 - [MetaInsight](https://crsu.shinyapps.io/MetaInsight/) - A web-based tool that conducts network meta-analysis (NMA) via the web, providing an intuitive interface and interactive visualizations.
 - [PyMARE](https://pymare.readthedocs.io/) - A Python library designed to perform meta-analysis tasks, including combining effect measures, heterogeneity testing, and generating forest plots.
 - [Jamovi](https://www.jamovi.org/) - A free, open-source statistical spreadsheet designed to be easy to use, including modules for meta-analysis.
