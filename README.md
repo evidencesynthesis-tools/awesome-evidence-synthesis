@@ -6,7 +6,7 @@
 This list is derived from the comprehensive mapping study and directory of open-source software for evidence synthesis. Systematic reviews, meta-analysis, and evidence synthesis are methods for systematically identifying, evaluating, and integrating research evidence across studies.
 
 
-![Preview](assets/banner2.png)
+![Preview](assets/banner3.png)
 
 ![License](https://img.shields.io/badge/license-CC--BY--4.0-lightgrey)
 ![Open Source Only](https://img.shields.io/badge/Open%20Source-100%25-brightgreen)
