@@ -4,7 +4,7 @@
 
 This list is curated based on the comprehensive mapping study and directory of open-source software for evidence synthesis. Systematic reviews, meta-analysis, and evidence synthesis are methods for systematically identifying, evaluating, and integrating research evidence across studies.
 
-![Preview](assets/banner3.png)
+![Preview](assets/banner4.png)
 
 ## Contents
 
@@ -319,6 +319,8 @@ This list is curated based on the comprehensive mapping study and directory of o
 
 ### Criteria & Policies
 **Inclusion Criteria:** Tools must use a recognized open-source license (e.g., MIT, GPL), have a public code repository, be non-proprietary, be reusable/extensible, and be relevant to evidence synthesis.
+
+
 **External API Policy:** Tools interacting with external APIs are included if they use an OSI-approved license, have public code, use external services only for data access/integration, and do not rely on hidden proprietary logic.
 
 ### Contributing
