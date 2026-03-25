@@ -312,7 +312,7 @@ This list is curated based on the comprehensive mapping study and directory of o
 
 ## Footnotes
 
-### Project Links <img src="assets/icon.png" width="150" align="right" />
+### Project Links <img src="assets/icon2.png" width="150" align="right" />
 - **Web Directory:** [evidencesynthesis-tools.github.io](https://evidencesynthesis-tools.github.io)
 - **Source Repo:** [evidencesynthesis-tools/evidencesynthesis-tools.github.io](https://github.com/evidencesynthesis-tools/evidencesynthesis-tools.github.io)
 - **Research Paper:** [Mapping The Open-Source Landscape (Preprint)](https://osf.io/preprints/metaarxiv/7uskw_v1)
