@@ -2,16 +2,9 @@
 
 > Open-source software, libraries, and frameworks designed to support the systematic review, meta-analysis, and evidence synthesis workflow.
 
-This list is derived from the comprehensive mapping study and directory of open-source software for evidence synthesis. Systematic reviews, meta-analysis, and evidence synthesis are methods for systematically identifying, evaluating, and integrating research evidence across studies.
-
+This list is curated based on the comprehensive mapping study and directory of open-source software for evidence synthesis. Systematic reviews, meta-analysis, and evidence synthesis are methods for systematically identifying, evaluating, and integrating research evidence across studies.
 
 ![Preview](assets/banner3.png)
-
-![License](https://img.shields.io/badge/license-CC--BY--4.0-lightgrey)
-![Open Source Only](https://img.shields.io/badge/Open%20Source-100%25-brightgreen)
-![Maintenance](https://img.shields.io/badge/Maintained-Active-success)
-![Open Science](https://img.shields.io/badge/Open%20Science-Compliant-green)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10.5281/zenodo.18681868.svg)](https://doi.org/10.5281/zenodo.18681868)
 
 ## Contents
 
@@ -320,36 +313,13 @@ This list is derived from the comprehensive mapping study and directory of open-
 ## Footnotes
 
 ### Project Links
+- **Web Directory:** [evidencesynthesis-tools.github.io](https://evidencesynthesis-tools.github.io)
+- **Source Repo:** [evidencesynthesis-tools/evidencesynthesis-tools.github.io](https://github.com/evidencesynthesis-tools/evidencesynthesis-tools.github.io)
+- **Research Paper:** [Mapping The Open-Source Landscape (Preprint)](https://osf.io/preprints/metaarxiv/7uskw_v1)
 
-- 🌐 **Web Directory:** [evidencesynthesis-tools.github.io](https://evidencesynthesis-tools.github.io)
-- 📦 **Source Repo:** [evidencesynthesis-tools/evidencesynthesis-tools.github.io](https://github.com/evidencesynthesis-tools/evidencesynthesis-tools.github.io)
-- 📄 **Research Paper:** [Mapping The Open-Source Landscape (Preprint)](https://osf.io/preprints/metaarxiv/7uskw_v1)
+### Criteria & Policies
+**Inclusion Criteria:** Tools must use a recognized open-source license (e.g., MIT, GPL), have a public code repository, be non-proprietary, be reusable/extensible, and be relevant to evidence synthesis.
+**External API Policy:** Tools interacting with external APIs are included if they use an OSI-approved license, have public code, use external services only for data access/integration, and do not rely on hidden proprietary logic.
 
-### Inclusion Criteria
-
-**Open Source License:** Must use a recognized open-source license (e.g., MIT, GPL, Apache).
-**Public Code Repository:** Source code must be publicly accessible (e.g., GitHub, GitLab, Bitbucket).
-**Non-Proprietary:** Must be free to use with no closed-source components or mandatory commercial dependencies.
-**Reusable & Extensible:** Must include sufficient documentation for reuse, extension, and community development.
-**Research-Focused:** Must be relevant to evidence synthesis, systematic reviews, meta-analysis, or related workflows.
-
-### External API Dependency Policy
-
-Open-source tools that interact with external APIs or platforms are eligible if:
-
-**Licensing:** The software uses an OSI-approved open-source license.
-**Availability:** The full source code is publicly available.
-**Transparency:** Core functionality is transparent and reusable.
-**Usage:** External services are used only for data access or integration, not for hidden proprietary logic.
-
-Such tools will also be clearly documented in the directory & awesome list.
-
-## Source Project
-
-This awesome list is derived from the Evidence Synthesis Tools Directory.
-
-If you want the complete dataset of tools, visit the website link provided in the header.
-
-## Contributing
-
+### Contributing
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to suggest additions or changes.
