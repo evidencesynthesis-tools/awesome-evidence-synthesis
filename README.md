@@ -48,6 +48,7 @@ This list is curated based on the comprehensive mapping study and directory of o
 - [PubTator 3.0](https://www.ncbi.nlm.nih.gov/research/pubtator3/) - A web-based semantic annotation system for biomedical literature, automatically recognizing concepts like genes, diseases, and chemicals.
 - [BioTextQuest v2.0](https://bioinformatics.med.uoc.gr/shinyapps/app/biotextquest) - An open-source web portal for biomedical literature mining that clusters PubMed search results to facilitate concept discovery and entity association.
 - [Kindred](https://kindred.readthedocs.io/en/stable/) - A Python library for supervised relation extraction from biomedical text, identifying structured relationships (e.g., gene-disease) using machine learning.
+- [LitLLMs](https://litllm.github.io) - An open-source framework for applying large language models to literature review tasks, including summarization, retrieval, and synthesis.
 - [R: syuzhet](https://cran.r-project.org/web/packages/syuzhet/) - An R package designed to extract sentiment and sentiment-derived plot arcs from text using various sentiment dictionaries for narrative analysis.
 - [RTextTools](http://www.rtexttools.com) - An R package for automatic text classification that creates machine learning models for supervised learning, useful for screening automation.
 - [spacy](https://spacy.io/) - Industrial-strength Natural Language Processing (NLP) library for Python, providing pre-trained models for named entity recognition, part-of-speech tagging, and dependency parsing.
@@ -106,6 +107,7 @@ This list is curated based on the comprehensive mapping study and directory of o
 - [Auto-STEED](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311358) - A data mining tool for automated extraction of experimental parameters and risk of bias items from in vivo publications.
 - [LitOrganizer](https://www.sciencedirect.com/science/article/pii/S2352711025001657) - Automates the process of data extraction and organization for scientific literature reviews, running locally as a management tool.
 - [prismAId](https://prismaid.review) - An open-source toolkit designed to support systematic literature reviews using generative AI for structured information extraction.
+- [ReAct-ExtrAct](https://react-extract.streamlit.app) - An open-source tool for automated, source-grounded data extraction in systematic reviews.
 
 ## Risk of Bias Assessment
 
@@ -154,6 +156,8 @@ This list is curated based on the comprehensive mapping study and directory of o
 - [ROSES flowchart](https://estech.shinyapps.io/roses_flowchart/) - An R package and Shiny app for creating flow diagrams compliant with the ROSES (Reporting Standards for Systematic Evidence Syntheses) guidelines.
 - [PROMETHEUS](https://github.com/joaopftorres/PROMETHEUS) - A human-centered pipeline designed to streamline Systematic Literature Reviews using Large Language Models, operating locally to support researchers.
 - [LLAssist](https://arxiv.org/abs/2407.13993) - Provides simple tools for automating literature reviews by leveraging Large Language Models and Natural Language Processing to extract information and evaluate relevance.
+- [ProfOlaf](https://arxiv.org/abs/2510.26750v2) - An open-source semi-automated tool designed to support systematic literature reviews by assisting in study selection and organization. 
+- [LatteReview](https://pouriarouzrokh.github.io/LatteReview/) - An open-source multi-agent framework designed to automate systematic review workflows using large language models.
 - [EvidenceSynthesis](https://ohdsi.github.io/EvidenceSynthesis/) - Contains routines for combining causal effect estimates and study diagnostics across multiple data sites in a distributed study using meta-analysis.
 
 ## Visualization & Reporting
@@ -162,6 +166,7 @@ This list is curated based on the comprehensive mapping study and directory of o
 - [RawGraphs](https://rawgraphs.io/) - An open-source platform built to create custom vector-based visualizations on top of the D3.js library without coding.
 - [EviAtlas](https://estech.shinyapps.io/eviatlas/) - A tool for creating systematic map visualizations to organize and display the distribution of evidence in a specific field.
 - [bibliometrix](http://www.bibliometrix.org/) - A comprehensive tool for quantitative research in bibliometrics and scientometrics, providing all the main tools for bibliometric analysis.
+- [flowchart](https://bruigtp.github.io/flowchart/) - An open-source R package designed to create flow diagrams, particularly useful for visualizing study selection processes such as PRISMA diagrams in systematic reviews. 
 - [Gephi](https://gephi.org/) - An open-source platform for visualizing and exploring large networks and graphs, widely used for network analysis and science mapping.
 - [Cytoscape](https://cytoscape.org/) - An open source software platform for visualizing complex networks and integrating these with any type of attribute data.
 - [QGIS](https://www.qgis.org/) - A free and open-source Geographic Information System (GIS) that supports creating, editing, visualizing, and analyzing geospatial information.
@@ -254,6 +259,7 @@ This list is curated based on the comprehensive mapping study and directory of o
 - [bipd](https://cran.r-project.org/package=bipd) - Bayesian Individual Patient Data Meta-Analysis using 'JAGS', facilitating the synthesis of IPD in a Bayesian framework.
 - [MetaStan](https://cran.r-project.org/package=MetaStan) - Bayesian meta-analysis via 'Stan', fitting several models including binomial-normal hierarchical models.
 - [MAd](https://cran.r-project.org/package=MAd) - Meta-analysis with mean differences, conducting meta-analysis using standardized mean differences and assuming correlated effect sizes.
+- [Manalyzer](https://black-yt.github.io/meta-analysis-page/) - An open-source end-to-end automated meta-analysis system that uses a multi-agent architecture to conduct statistical synthesis.
 - [CaMeA](https://cran.r-project.org/package=CaMeA) - Causal meta-analysis for aggregated data, implementing aggregation formulas and inference methods proposed by Berenfeld et al.
 - [mvtmeta](https://cran.r-project.org/package=mvtmeta) - Multivariate meta-analysis, designed for modeling multiple outcomes simultaneously using multivariate normal distributions.
 - [mc.heterogeneity](https://cran.r-project.org/package=mc.heterogeneity) - A Monte Carlo based test for between-study heterogeneity in meta-analysis of standardized mean differences.
