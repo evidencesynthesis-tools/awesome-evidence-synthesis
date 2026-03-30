@@ -152,7 +152,7 @@ This list is curated based on the comprehensive mapping study and directory of o
 - [metaverse](https://rmetaverse.github.io) - A meta-project that integrates and expands the number and utility of R functions for systematic review and meta-analysis.
 - [EPPI Reviewer](https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=2914) - A web-based software for managing all stages of the systematic review process, including searching, screening, and data extraction.
 - [SyRF](https://syrf.org.uk/) - The CAMARADES Systematic Review Facility (SyRF) is an open-source platform designed specifically for preclinical systematic reviews.
-- [Prisma 2020 (Flow Diagram)](https://www.eshackathon.org/software/PRISMA2020.html) - The official Prisma 2020 Flow Diagram Generator (Shiny App & R package) automatically creates a correctly formatted Prisma flow diagram.
+- [Prisma 2020 (Flow Diagram)](https://estech.shinyapps.io/PRISMA_flowdiagram_latest/) - The official Prisma 2020 Flow Diagram Generator (Shiny App & R package) automatically creates a correctly formatted Prisma flow diagram.
 - [ROSES flowchart](https://estech.shinyapps.io/roses_flowchart/) - An R package and Shiny app for creating flow diagrams compliant with the ROSES (Reporting Standards for Systematic Evidence Syntheses) guidelines.
 - [PROMETHEUS](https://github.com/joaopftorres/PROMETHEUS) - A human-centered pipeline designed to streamline Systematic Literature Reviews using Large Language Models, operating locally to support researchers.
 - [LLAssist](https://arxiv.org/abs/2407.13993) - Provides simple tools for automating literature reviews by leveraging Large Language Models and Natural Language Processing to extract information and evaluate relevance.
