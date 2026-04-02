@@ -184,14 +184,13 @@ Systematic methods for identifying, evaluating, and integrating research evidenc
 
 ## Contributing
 
+ <img src="assets/icon.png" width="100" align="left" />
+
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to suggest additions or changes.
 
 ## Footnotes
-
- <img src="assets/icon.png" width="100" align="left" />
 
 ### Criteria & Policies
 **Inclusion Criteria:** Tools must use a recognized open-source license (e.g., MIT, GPL), have a public code repository, be non-proprietary, be reusable/extensible, and be relevant to evidence synthesis.
 
 **External API Policy:** Tools interacting with external APIs are included if they use an OSI-approved license, have public code, use external services only for data access/integration, and do not rely on hidden proprietary logic.
-
