@@ -52,8 +52,8 @@ Systematic methods for identifying, evaluating, and integrating research evidenc
 - [ASReview](https://asreview.ai/) - An open-source machine learning tool for systematic reviews that assists researchers in screening papers interactively and efficiently.
 - [ReviewAid](https://reviewaid.github.io) - An open-source AI full text screening & data extraction assistant designed to speed up systematic review process.
 - [Abstrackr](https://abstrackr.com) - A free, open-source web application designed to help researchers screen citations for systematic reviews using machine learning.
-- [R: revtools](https://cran.r-project.org/web/packages/revtools/) - A toolkit for systematic reviews in R, facilitating article screening via visual inspection and topic modeling of search results.
-- [R: metagear](https://cran.r-project.org/web/packages/metagear/) - R package that provides tools for article deduplication, downloading PDFs, and interactive screening.
+- [revtools](https://cran.r-project.org/web/packages/revtools/) - A toolkit for systematic reviews in R, facilitating article screening via visual inspection and topic modeling of search results.
+- [metagear](https://cran.r-project.org/web/packages/metagear/) - R package that provides tools for article deduplication, downloading PDFs, and interactive screening.
 - [RobotSearch](https://www.robotreviewer.net/blog/2018/10/2/robotsearch-is-online-apply-our-classifier-to-your-search-results) - A machine learning tool designed to filter out articles that do not describe randomized controlled trials (RCTs) from search results.
 - [DenseReviewer](https://densereviewer.ielab.io) - A Python-based tool designed to accelerate the screening phase by using Dense Retrieval models to rank relevant studies and incorporating active learning.
 - [rayyanR](https://github.com/befriendabacterium/rayyanR) - An R package designed to process screening decisions exported from the Rayyan systematic review platform, structuring them for analysis and Prisma flow diagrams.
@@ -88,7 +88,7 @@ Systematic methods for identifying, evaluating, and integrating research evidenc
 - [Zotero](https://www.zotero.org/) - Free, open-source reference manager that helps collect, organize, cite, and share research sources.
 - [JabRef](https://www.jabref.org/) - Open-source bibliography reference manager. The native file format used is BibTeX, standard for LaTeX.
 - [OpenRefine](https://openrefine.org/) - A power tool for working with messy data, cleaning it, transforming it, and extending it with web services.
-- [Dedupe](https://dedupe.io/) - A Python library for fast, scalable fuzzy matching and deduplication of records (e.g., citations).
+- [Dedupe](https://docs.dedupe.io/en/latest/) - A Python library for fast, scalable fuzzy matching and deduplication of records (e.g., citations).
 - [ASySD](https://camaradesuk.github.io/ASySD/) - A web application designed to de-duplicate large search results from multiple databases for systematic reviews efficiently.
 - [HAWC](https://hawcproject.org/) - An open-source content management system used to guarantee transparency in systematic reviews, managing the review process and documentation.
 
@@ -96,8 +96,8 @@ Systematic methods for identifying, evaluating, and integrating research evidenc
 
 - [Pandoc](https://pandoc.org/) - A universal document converter that turns files from one markup format into another (e.g., Word to Markdown), useful for document preparation.
 - [OSF (Open Science Framework)](https://osf.io/) - An open-source project management tool supporting the full research lifecycle, from preregistration to data sharing and collaboration.
-- [R: R Markdown](https://rmarkdown.rstudio.com/) - A framework for creating dynamic documents that turn analysis code into fully reproducible reports for transparent documentation.
-- [R: bookdown](https://bookdown.org/) - An R package that allows authors to write books and long-form reports using R Markdown to facilitate comprehensive systematic reviews.
+- [Markdown](https://rmarkdown.rstudio.com/) - A framework for creating dynamic documents that turn analysis code into fully reproducible reports for transparent documentation.
+- [bookdown](https://bookdown.org/) - An R package that allows authors to write books and long-form reports using R Markdown to facilitate comprehensive systematic reviews.
 - [SyRF](https://syrf.org.uk/) - The CAMARADES Systematic Review Facility (SyRF) is an open-source platform designed specifically for preclinical systematic reviews.
 - [Prisma 2020 (Flow Diagram)](https://estech.shinyapps.io/PRISMA_flowdiagram_latest/) - The official Prisma 2020 Flow Diagram Generator (Shiny App & R package) automatically creates a correctly formatted Prisma flow diagram.
 - [ROSES flowchart](https://estech.shinyapps.io/roses_flowchart/) - An R package and Shiny app for creating flow diagrams compliant with the ROSES (Reporting Standards for Systematic Evidence Syntheses) guidelines.
@@ -114,7 +114,7 @@ Systematic methods for identifying, evaluating, and integrating research evidenc
 - [bibliometrix](http://www.bibliometrix.org/) - A comprehensive tool for quantitative research in bibliometrics and scientometrics, providing all the main tools for bibliometric analysis.
 - [Gephi](https://gephi.org/) - An open-source platform for visualizing and exploring large networks and graphs, widely used for network analysis and science mapping.
 - [Cytoscape](https://cytoscape.org/) - An open source software platform for visualizing complex networks and integrating these with any type of attribute data.
-- [R: forestplot](https://cran.r-project.org/web/packages/forestplot/) - An R package specifically designed for creating forest plots, which are standard visualizations in meta-analysis.
+- [forestplot](https://cran.r-project.org/web/packages/forestplot/) - An R package specifically designed for creating forest plots, which are standard visualizations in meta-analysis.
 - [MAvis](http://kylehamilton.net/shiny/MAVIS/) - An interactive Shiny application designed for visualizing meta-analysis data, including forest plots, funnel plots, and L'Abbe plots.
 - [metaviz](https://cloud.r-project.org/web/packages/metaviz/vignettes/metaviz.html) - An R package for creating flexible visualizations for meta-analytic data, including rainforest plots and subgroup visualizations.
 - [ShinyMeta](https://rstudio.github.io/shinymeta/) - A Shiny web application that provides a graphical user interface for performing meta-analysis and meta-regression using the 'metafor' package.
@@ -128,9 +128,9 @@ Systematic methods for identifying, evaluating, and integrating research evidenc
 
 ## Meta-analysis
 
-- [R: metafor](https://www.metafor-project.org/) - A comprehensive R package for conducting meta-analyses, providing functions for fixed, random, and mixed-effects models.
-- [R: meta](https://cran.r-project.org/web/packages/meta/) - A user-friendly R package for standard meta-analysis in clinical research, supporting binary, continuous, and diagnostic test accuracy data.
-- [R: netmeta](https://cran.r-project.org/web/packages/netmeta/) - An R package for frequentist network meta-analysis using a graph-theoretical approach to estimate treatment effects.
+- [metafor](https://www.metafor-project.org/) - A comprehensive R package for conducting meta-analyses, providing functions for fixed, random, and mixed-effects models.
+- [meta](https://cran.r-project.org/web/packages/meta/) - A user-friendly R package for standard meta-analysis in clinical research, supporting binary, continuous, and diagnostic test accuracy data.
+- [netmeta](https://cran.r-project.org/web/packages/netmeta/) - An R package for frequentist network meta-analysis using a graph-theoretical approach to estimate treatment effects.
 - [OpenMEE](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.12708) - An open-source, cross-platform software for meta-analysis in ecology and evolution, utilizing a graphical interface backed by 'metafor'.
 - [OpenMetaAnalyst](https://www.jstatsoft.org/article/view/v049i05) - A user-friendly, open-source software for performing meta-analysis and meta-regression using a graphical interface.
 - [JASP](https://jasp-stats.org/) - Free and open-source software for statistical analysis, featuring a graphical interface with a dedicated module for conducting meta-analysis.
@@ -138,19 +138,19 @@ Systematic methods for identifying, evaluating, and integrating research evidenc
 - [PyMC](https://www.pymc.io/) - A Python library for Bayesian statistical modeling and probabilistic machine learning focusing on Markov chain Monte Carlo (MCMC) algorithms.
 - [JAGS](https://mcmc-jags.sourceforge.io) - A program for analysis of Bayesian hierarchical models using Markov Chain Monte Carlo (MCMC) simulation.
 - [Stan](https://mc-stan.org/) - A state-of-the-art platform for statistical modeling and high-performance computation using Hamiltonian Monte Carlo (HMC).
-- [R: meta4diag](https://cran.r-project.org/web/packages/meta4diag/) - An R package specifically designed for the Bayesian meta-analysis of diagnostic test accuracy studies handling complex data structures.
-- [R: mada](https://cran.r-project.org/web/packages/mada/) - An R package that provides functions for the meta-analysis of diagnostic accuracy data, supporting various statistical models and visualization.
-- [R: metaSEM](https://cran.r-project.org/web/packages/metaSEM/) - An R package for conducting meta-analytic structural equation modeling (MASEM) to synthesize correlation or covariance matrices across studies.
-- [R: gemtc](https://cran.r-project.org/web/packages/gemtc/) - An R package for network meta-analysis using a Bayesian graphical model framework, primarily interfacing with JAGS.
-- [R: multinma](https://cran.r-project.org/web/packages/multinma/) - An R package for network meta-analysis of randomized trials and observational studies, utilizing Stan for Bayesian inference.
-- [R: dosresmeta](https://cran.r-project.org/web/packages/dosresmeta/) - An R package for performing dose-response meta-analysis of aggregated data using a one-stage approach to model non-linear relationships.
-- [R: MetaForest](https://cran.r-project.org/web/packages/metaforest/index.html) - An R package that applies Random Forests to meta-analytic data to explore heterogeneity and model complex, non-linear relationships.
-- [R: Bayesmeta](https://cran.r-project.org/web/packages/bayesmeta/) - An R package for conducting Bayesian random-effects meta-analysis with a focus on robust parameter estimation and predictive inference.
-- [R: metaumbrella](https://metaumbrella.org) - An R package specifically designed to perform "Umbrella Reviews," which are systematic reviews of multiple meta-analyses.
-- [R: robumeta](https://cran.r-project.org/web/packages/robumeta/) - An R package for conducting robust variance estimation (RVE) in meta-analysis, which is essential for handling dependent effect sizes.
-- [R: dmetar](https://dmetar.protectlab.org) - A comprehensive R package to assist in conducting meta-analyses, providing helper functions for data preparation, effect size calculation, and bias assessment.
+- [meta4diag](https://cran.r-project.org/web/packages/meta4diag/) - An R package specifically designed for the Bayesian meta-analysis of diagnostic test accuracy studies handling complex data structures.
+- [mada](https://cran.r-project.org/web/packages/mada/) - An R package that provides functions for the meta-analysis of diagnostic accuracy data, supporting various statistical models and visualization.
+- [metaSEM](https://cran.r-project.org/web/packages/metaSEM/) - An R package for conducting meta-analytic structural equation modeling (MASEM) to synthesize correlation or covariance matrices across studies.
+- [gemtc](https://cran.r-project.org/web/packages/gemtc/) - An R package for network meta-analysis using a Bayesian graphical model framework, primarily interfacing with JAGS.
+- [multinma](https://cran.r-project.org/web/packages/multinma/) - An R package for network meta-analysis of randomized trials and observational studies, utilizing Stan for Bayesian inference.
+- [dosresmeta](https://cran.r-project.org/web/packages/dosresmeta/) - An R package for performing dose-response meta-analysis of aggregated data using a one-stage approach to model non-linear relationships.
+- [MetaForest](https://cran.r-project.org/web/packages/metaforest/index.html) - An R package that applies Random Forests to meta-analytic data to explore heterogeneity and model complex, non-linear relationships.
+- [Bayesmeta](https://cran.r-project.org/web/packages/bayesmeta/) - An R package for conducting Bayesian random-effects meta-analysis with a focus on robust parameter estimation and predictive inference.
+- [metaumbrella](https://metaumbrella.org) - An R package specifically designed to perform "Umbrella Reviews," which are systematic reviews of multiple meta-analyses.
+- [robumeta](https://cran.r-project.org/web/packages/robumeta/) - An R package for conducting robust variance estimation (RVE) in meta-analysis, which is essential for handling dependent effect sizes.
+- [dmetar](https://dmetar.protectlab.org) - A comprehensive R package to assist in conducting meta-analyses, providing helper functions for data preparation, effect size calculation, and bias assessment.
 - [compute.es](https://cran.r-project.org/web/packages/compute.es/) - R package for computing effect sizes (d, g, r, log odds ratio) and their variances from various test statistics.
-- [R: clubSandwich](https://cran.r-project.org/web/packages/clubSandwich/) - An R package providing cluster-robust variance estimators for models involving dependent effect sizes, such as multilevel or network meta-analysis.
+- [clubSandwich](https://cran.r-project.org/web/packages/clubSandwich/) - An R package providing cluster-robust variance estimators for models involving dependent effect sizes, such as multilevel or network meta-analysis.
 - [MetaInsight](https://crsu.shinyapps.io/MetaInsight/) - A web-based tool that conducts network meta-analysis (NMA) via the web, providing an intuitive interface and interactive visualizations.
 - [PyMARE](https://pymare.readthedocs.io/) - A Python library designed to perform meta-analysis tasks, including combining effect measures, heterogeneity testing, and generating forest plots.
 - [Jamovi](https://www.jamovi.org/) - A free, open-source statistical spreadsheet designed to be easy to use, including modules for meta-analysis.
