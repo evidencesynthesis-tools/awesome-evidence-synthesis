@@ -4,7 +4,7 @@
 
 Systematic methods for identifying, evaluating, and integrating research evidence across studies. This list is derived from the comprehensive directory at [evidencesynthesis-tools.github.io](https://evidencesynthesis-tools.github.io) and features only the best, most impactful open-source tools for evidence synthesis, filtering out to ensure high-quality awesome curation.
 
-<a href="https://evidencesynthesis-tools.github.io"><img src="assets/banner4.png" width="800" alt="Evidence Synthesis Tools Banner"></a>
+<a href="https://evidencesynthesis-tools.github.io"><img src="assets/banner4.png" width="400" alt="Evidence Synthesis Tools Banner"></a>
 
 ## Contents
 
