@@ -1,4 +1,4 @@
-# Contributing to Awesome Evidence Synthesis Tools
+# Contributing to Awesome Evidence Synthesis
 
 Thank you for your interest in contributing!
 
