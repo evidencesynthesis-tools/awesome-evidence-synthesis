@@ -4,7 +4,7 @@
 
 Systematic methods for identifying, evaluating, and integrating research evidence across studies. This list is derived from the comprehensive directory at [evidencesynthesis-tools.github.io](https://evidencesynthesis-tools.github.io) and features only the best, most impactful open-source tools for evidence synthesis, filtering out to ensure high-quality awesome curation.
 
-<a href="https://evidencesynthesis-tools.github.io"><img src="assets/banner4.png" width="400" alt="Evidence Synthesis Tools Banner"></a>
+<a href="https://evidencesynthesis-tools.github.io"><img src="assets/banner4.png" width="800" alt="Evidence Synthesis Tools Banner"></a>
 
 ## Contents
 
@@ -182,7 +182,7 @@ Systematic methods for identifying, evaluating, and integrating research evidenc
 - [coefa](https://cran.r-project.org/package=coefa) - Meta analysis of factor analysis based on co-occurrence matrices.
 - [appraise](https://cran.r-project.org/package=appraise) - Bias-aware evidence synthesis in systematic reviews, implementing a bias-aware framework.
 
-## Contributing  <img src="assets/icon.png" width="80" align="right" />
+## Contributing  <img src="assets/icon.png" width="90" align="right" />
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to suggest additions or changes.
 
