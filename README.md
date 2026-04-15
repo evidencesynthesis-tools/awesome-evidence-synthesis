@@ -37,6 +37,7 @@ Systematic methods for identifying, evaluating, and integrating research evidenc
 - [PubMed Search Tester](https://esperr.github.io/pubmed-search-tester/about.html) - A web-based tool designed to help librarians and researchers construct and validate PubMed search queries in real-time.
 - [europepmc](https://docs.ropensci.org/europepmc/) - An R package to retrieve metadata and full text from the Europe PMC database, a crucial resource for accessing biomedical literature and open-access content.
 - [rcrossref](https://docs.ropensci.org/rcrossref/) - An open-source R client for interacting with the Crossref REST API to retrieve scholarly metadata, DOI records, and citation information.
+- [citracer](https://github.com/marcpinet/citracer) - Trace citation chains for any concept across research papers and render them as an interactive graph.
 
 ## Text Mining & NLP
 
