@@ -183,9 +183,14 @@ Systematic methods for identifying, evaluating, and integrating research evidenc
 - [coefa](https://cran.r-project.org/package=coefa) - Meta analysis of factor analysis based on co-occurrence matrices.
 - [appraise](https://cran.r-project.org/package=appraise) - Bias-aware evidence synthesis in systematic reviews, implementing a bias-aware framework.
 
-## Contributing  <img src="assets/icon.png" width="90" align="right" />
+## Contributing  
+<img src="assets/icon.png" width="90" align="right" />
 
 Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to suggest additions or changes.
+
+<a href="https://github.com/evidencesynthesis-tools/awesome-evidence-synthesis/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=evidencesynthesis-tools/awesome-evidence-synthesis" />
+</a>
 
 ## Footnotes
 
