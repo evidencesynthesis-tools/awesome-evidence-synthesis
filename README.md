@@ -28,22 +28,16 @@ Systematic methods for identifying, evaluating, and integrating research evidenc
 - [Systematic Review Accelerator 2](https://github.com/IEBH/SRA2) - The core Systematic Review Accelerator (SRA) application, a key open-source platform for evidence synthesis.
 - [TERA Explorer](https://github.com/IEBH/TERA-explorer) - A simple TERA project viewer and editor, confirming "TERA" as an active project name within the suite.
 - [SRA Polyglot](https://iebh.github.io/sra-polyglot/) - A tool to convert between different medical database search formats, directly relevant to search strategy development.
-- [BioEntrez](https://biopython.org/) - A module within the Biopython library that provides a programmatic interface to the NCBI Entrez utilities for automated searches and data retrieval.
-- [Entrez Direct](https://www.ncbi.nlm.nih.gov/books/NBK179288/) - A set of command-line utilities for accessing the NCBI Entrez databases, allowing for powerful, scriptable PubMed searches.
-- [Rentrez](https://docs.ropensci.org/rentrez/) - An R package providing an R interface to the NCBI E-utilities API for searching PubMed, downloading records, and fetching linked data programmatically.
-- [Carrot2](https://carrot2.org/) - An open-source search results clustering engine that automatically organizes search results into thematic categories to help researchers refine search queries.
 - [PyMedTermino](https://pypi.org/project/PyMedTermino/) - A Python library designed to manipulate the MeSH (Medical Subject Headings) thesaurus for biomedical search strategies and programmatic search string creation.
 - [Paperfetcher](https://paperfetcher.github.io) - Automates handsearching and citation searching for systematic reviews using Crossref and COCI databases, enabling one-click snowballing and RIS exports.
 - [PubMed Search Tester](https://esperr.github.io/pubmed-search-tester/about.html) - A web-based tool designed to help librarians and researchers construct and validate PubMed search queries in real-time.
 - [europepmc](https://docs.ropensci.org/europepmc/) - An R package to retrieve metadata and full text from the Europe PMC database, a crucial resource for accessing biomedical literature and open-access content.
-- [rcrossref](https://docs.ropensci.org/rcrossref/) - An open-source R client for interacting with the Crossref REST API to retrieve scholarly metadata, DOI records, and citation information.
 - [citracer](https://github.com/marcpinet/citracer) - Trace citation chains for any concept across research papers and render them as an interactive graph.
 
 ## Text Mining & NLP
 
 - [PubTator 3.0](https://www.ncbi.nlm.nih.gov/research/pubtator3/) - A web-based semantic annotation system for biomedical literature, automatically recognizing concepts like genes, diseases, and chemicals.
 - [BioTextQuest v2.0](https://bioinformatics.med.uoc.gr/shinyapps/app/biotextquest) - An open-source web portal for biomedical literature mining that clusters PubMed search results to facilitate concept discovery and entity association.
-- [Kindred](https://kindred.readthedocs.io/en/stable/) - A Python library for supervised relation extraction from biomedical text, identifying structured relationships (e.g., gene-disease) using machine learning.
 - [LitLLMs](https://litllm.github.io) - An open-source framework for applying large language models to literature review tasks, including summarization, retrieval, and synthesis.
 - [QuickUMLS](https://pypi.org/project/medspacy-quickumls/) - A fast, unsupervised approach for extracting concepts from biomedical text and mapping them to UMLS concepts, significantly faster than MetaMap.
 - [MetaNLP](https://cran.r-project.org/package=MetaNLP) - Natural language processing for meta-analysis, processing titles and abstracts for data extraction and synthesis.
@@ -62,9 +56,7 @@ Systematic methods for identifying, evaluating, and integrating research evidenc
 ## Data Extraction & Cleaning
 
 - [WebPlotDigitizer (v4)](https://apps.automeris.io/wpd/) - An open-source, semi-automated tool to extract numeric data from plot images, useful for extracting data from graphs for meta-analysis.
-- [ImageJ](https://imagej.net/ij/) - A Java-based image processing program widely used to extract data points from raster plots and images.
 - [Engauge Digitizer](https://akhuettel.github.io/engauge-digitizer/) - Open source software for converting image files back to numbers, extracting data from graph images for analysis.
-- [Recogito](https://recogito.pelagios.org/) - An open-source web-based tool for collaborative document annotation and text mapping.
 - [metaDigitise](https://cran.r-project.org/web/packages/metaDigitise/index.html) - An R package for high-throughput, reproducible extraction of data from published figures to digitize plots efficiently.
 - [SurvdigitizeR](https://pechlilab.shinyapps.io/SurvdigitizeR/) - An R package and Shiny application algorithm for automated survival curve digitization with accuracy comparable to manual methods.
 - [Taguette](https://www.taguette.org/) - An open-source qualitative analysis tool that supports code-and-retrieval methods using simple text files for qualitative data extraction.
@@ -78,6 +70,7 @@ Systematic methods for identifying, evaluating, and integrating research evidenc
 ## Risk of Bias Assessment
 
 - [RobotReviewer](https://www.robotreviewer.net) - An open-source system that automates risk-of-bias assessment and data extraction for randomized controlled trials using NLP.
+- [RCT-Reviewer](https://rct-reviewer.github.io) - A modernized, standalone version of RobotReviewer for automated Risk of Bias assessment, built on its original models trained on 12,808 RCTs.
 - [Critiplot](https://critiplot.vercel.app) - A specialized open-source tool for generating traffic light plots for MMAT, ROBIS, GRADE, NOS, JBI Case Series/report assessments.
 - [robvis](https://www.riskofbias.info/welcome/robvis-visualization-tool) - An R package and web app for generating risk-of-bias assessment plots, supporting RoB2, ROBINS-I, QUADAS-2, and more.
 - [NOS-TLPlot](https://nos-tlplot.vercel.app) - Open-source tool designed to visualize Newcastle-Ottawa Scale (NOS) assessments using traffic light plots.
@@ -86,16 +79,13 @@ Systematic methods for identifying, evaluating, and integrating research evidenc
 
 ## Reference Management
 
-- [Zotero](https://www.zotero.org/) - Free, open-source reference manager that helps collect, organize, cite, and share research sources.
-- [JabRef](https://www.jabref.org/) - Open-source bibliography reference manager. The native file format used is BibTeX, standard for LaTeX.
-- [OpenRefine](https://openrefine.org/) - A power tool for working with messy data, cleaning it, transforming it, and extending it with web services.
-- [Dedupe](https://docs.dedupe.io/en/latest/) - A Python library for fast, scalable fuzzy matching and deduplication of records (e.g., citations).
+
 - [ASySD](https://camaradesuk.github.io/ASySD/) - A web application designed to de-duplicate large search results from multiple databases for systematic reviews efficiently.
 - [HAWC](https://hawcproject.org/) - An open-source content management system used to guarantee transparency in systematic reviews, managing the review process and documentation.
 
 ## Workflow & Automation
 
-- [Pandoc](https://pandoc.org/) - A universal document converter that turns files from one markup format into another (e.g., Word to Markdown), useful for document preparation.
+
 - [OSF (Open Science Framework)](https://osf.io/) - An open-source project management tool supporting the full research lifecycle, from preregistration to data sharing and collaboration.
 - [Markdown](https://rmarkdown.rstudio.com/) - A framework for creating dynamic documents that turn analysis code into fully reproducible reports for transparent documentation.
 - [bookdown](https://bookdown.org/) - An R package that allows authors to write books and long-form reports using R Markdown to facilitate comprehensive systematic reviews.
