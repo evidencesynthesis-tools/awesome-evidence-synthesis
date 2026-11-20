@@ -103,6 +103,7 @@ Systematic methods for identifying, evaluating, and integrating research evidenc
 - [ProfOlaf](https://arxiv.org/abs/2510.26750v2) - An open-source semi-automated tool designed to support systematic literature reviews by assisting in study selection and organization. 
 - [LatteReview](https://pouriarouzrokh.github.io/LatteReview/) - An open-source multi-agent framework designed to automate systematic review workflows using large language models.
 - [MedSci Skills](https://github.com/Aperivue/medsci-skills) - Open-source MIT Claude Code skill suite for medical research and evidence synthesis: literature verification, PRISMA workflows, risk-of-bias auditing, and meta-analysis automation.
+- [systematic-review-skills](https://github.com/pinjun99/systematic-review-skills) - Open-source Apache-2.0 agent skills for Codex and Claude Code that run a health-intervention systematic review from protocol to PRISMA 2020 reporting, with human approval at every milestone.
 - [EvidenceSynthesis](https://ohdsi.github.io/EvidenceSynthesis/) - Contains routines for combining causal effect estimates and study diagnostics across multiple data sites in a distributed study using meta-analysis.
 
 ## Visualization & Reporting
